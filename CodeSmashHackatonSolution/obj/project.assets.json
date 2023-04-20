@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\korisnik\\Desktop\\CodeSmashHackatonSolution\\CodeSmashHackatonSolution.csproj",
+      "projectUniqueName": "C:\\Users\\korisnik\\Desktop\\CodeSmahshSolution\\CodeSmashHackatonSolution\\CodeSmashHackatonSolution.csproj",
       "projectName": "CodeSmashHackatonSolution",
-      "projectPath": "C:\\Users\\korisnik\\Desktop\\CodeSmashHackatonSolution\\CodeSmashHackatonSolution.csproj",
+      "projectPath": "C:\\Users\\korisnik\\Desktop\\CodeSmahshSolution\\CodeSmashHackatonSolution\\CodeSmashHackatonSolution.csproj",
       "packagesPath": "C:\\Users\\korisnik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\korisnik\\Desktop\\CodeSmashHackatonSolution\\obj\\",
+      "outputPath": "C:\\Users\\korisnik\\Desktop\\CodeSmahshSolution\\CodeSmashHackatonSolution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\korisnik\\AppData\\Roaming\\NuGet\\NuGet.Config",
